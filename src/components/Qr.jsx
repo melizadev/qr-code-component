@@ -7,7 +7,7 @@ const Qr = () => {
         <h2 className="font-bold font-outfit text-xl text-[#1f3251]">
           Improve your front-end <br /> skills by building projects{" "}
         </h2>
-        <p className="text-[#7b879d] text-[15px] font-normal font-outfit pb-2  ">
+        <p className="text-[#7b879d] text-[15px] font-normal font-outfit pb-2">
           Scan the QR code to visit Frontend <br /> Mentor and take your coding
           skills to <br />
           the next level
